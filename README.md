@@ -5,7 +5,7 @@
 To practice upon Git Github
 
 ## Project Link
-- Github: [AFSD](https://github.com/opchaudharyAFSD)
+- Github: [AFSD](https://github.com/opchaudhary/AFSD)
 
 
 ## Getting Started
@@ -96,7 +96,7 @@ To practice upon Git Github
 
 7.**Create a Github Repository:**
 
-- Github: [AFSD](https://github.com/opchaudharyAFSD)
+- Github: [AFSD](https://github.com/opchaudhary/AFSD)
 
 - Add url
   
@@ -108,7 +108,7 @@ To practice upon Git Github
 
 3. **Push project to Github Repository:**
 
-- Github: [AFSD](https://github.com/opchaudharyAFSD)
+- Github: [AFSD](https://github.com/opchaudhary/AFSD)
 
 -Push master branch
 
